@@ -19,3 +19,6 @@ f(x) = 2x + 4 (2)
 
 function g:
 g(x) = x · sin(x) − 1
+
+The zero point of g(x),with x ∈ [−4; 4] was found.
+Function g(x) was plotted inx ∈ [−4; 4].
